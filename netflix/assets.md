@@ -14,5 +14,7 @@ imageUrl = 'https://image.tmdb.org/t/p/original'
 
 originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
 
+action ='https://api.themoviedb.org/3/discover/movie?api_key={API_KEY_HERE}&with_genres=28'
+
 
 API_KEY = "44150525da246583a0270c3daf32438e"
