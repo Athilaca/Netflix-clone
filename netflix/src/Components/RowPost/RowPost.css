@@ -20,6 +20,7 @@
     cursor:pointer;
     max-height: 250px;
     margin-right: 10px;
+    min-width:410px;
 
 }
 
@@ -31,7 +32,7 @@
 }
 
 .poster:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
     border-radius: 5px;
 }
 .smallPoster:hover{
